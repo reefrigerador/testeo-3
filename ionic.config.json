@@ -1,0 +1,8 @@
+{
+  "name": "testeo3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "92de70b2"
+}
